@@ -1,4 +1,4 @@
-# advancedwidget
+# AdvancedWidget
 
 A new Flutter project.
 
